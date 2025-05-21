@@ -52,11 +52,7 @@ This project contains four Java exercises focused on advanced usage of **lambdas
 
 ## ▶️ Execution
 
-- Run the `main()` method of each class depending on the exercise:
-    - Exercise 1 → `LambdaLevel2Exercise1.java`
-    - Exercise 2 → `LambdaLevel2Exercise2.java`
-    - Exercise 3 → `LambdaLevel2Exercise3.java`
-    - Exercise 4 → `LambdaLevel2Exercise4.java`
+- Run the `main()` method of each class depending on the exercise.
 
 ---
 
