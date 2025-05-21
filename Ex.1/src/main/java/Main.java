@@ -9,6 +9,7 @@ public class Main {
         List<String> filteredNames = NameFilter.filterNames(names);
 
         System.out.println("Names starting with 'A' and lenght 3: " + filteredNames);
+        names.forEach(System.out::println);
 
     }
 }
